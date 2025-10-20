@@ -1,5 +1,3 @@
-Of course, here is the Proxmox VE cheat sheet in English, formatted with Markdown.
-
 -----
 
 # Proxmox VE - Cheat Sheet 🚀
